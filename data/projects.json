@@ -1,0 +1,18 @@
+[
+    {
+        "projectID": "CHX-1034",
+        "story": "Mask account number"
+    },
+    {
+        "projectID": "CHX-2509",
+        "story": "ACF hold and release for Truist"        
+    },
+    {
+        "projectID": "CHX-6645",
+        "story": "Gracefully exit cix03100 sy error tran process"        
+    },
+    {
+        "projectID": "CHX-2213",
+        "story": "CIB02300 batch process"  
+    }    
+]
